@@ -3,16 +3,21 @@
  * Last Modified: 25/09/2022
  * Version1
  *
- * Author: Bing Pan
- * Student ID: 301317241
- *
  * Author: Wilson Mungai
  * Student ID: 301287641
  *
  * Author: Gideon Shewana
  * Student ID: 301195054
  *
- * Description: It allows users to add, subtract, multiply, divide integers as well as decimal numbers and give results. During the input it allows users to change or clear what they already typed by pressing the back button. It also allows users to delete all the inputs by AC button and also allows users to remove the latest entry by pressing CE button
+ * Author: Bing Pan
+ * Student ID: 301317241
+
+ * Description: 
+ * This Calculator App allows users to add, subtract, multiply, divide integers as well as decimal numbers and displays the results. 
+ * During the input, it gives users the options to change or clear what they already type. 
+ * Specifically, the Back button allows the users to remove what are entered backwards.
+ * The AC button allows the users to clear all the input numbers at once.
+ * In contract, the CE button allows users just to remove their latest entry.
  */
 
 import UIKit
